@@ -1,0 +1,100 @@
+﻿<Window x:Class="SudokuGame.GamePar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GamePar" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Height="625" Width="1054" Background="#FFCB4B4B">
+    <Grid>
+
+        <Label x:Name="labelp" Content="Parallel Solver" HorizontalAlignment="Left" Margin="373,46,0,0" VerticalAlignment="Top" FontSize="29.333" FontFamily="Source Sans Pro Black"/>
+        <Grid HorizontalAlignment="Left" Height="483" Margin="147,101,0,0" VerticalAlignment="Top" Width="766"/>
+        <Image x:Name="imgpSeq" HorizontalAlignment="Left" Height="457" Margin="281,127,0,0" VerticalAlignment="Top" Width="459" Source="pic/sudoku.png"/>
+        <Label x:Name="label1" Content="0" HorizontalAlignment="Left" Margin="296,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label2" Content="0" HorizontalAlignment="Left" Margin="346,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label3" Content="0" HorizontalAlignment="Left" Margin="397,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label4" Content="0" HorizontalAlignment="Left" Margin="447,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label5" Content="0" HorizontalAlignment="Left" Margin="499,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label6" Content="0" HorizontalAlignment="Left" Margin="549,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label7" Content="0" HorizontalAlignment="Left" Margin="590,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label8" Content="0" HorizontalAlignment="Left" Margin="641,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label9" Content="0" HorizontalAlignment="Left" Margin="699,143,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label10" Content="0" HorizontalAlignment="Left" Margin="296,186,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label11" Content="0" HorizontalAlignment="Left" Margin="346,186,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label12" Content="0" HorizontalAlignment="Left" Margin="397,188,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold" RenderTransformOrigin="0.541,0.147"/>
+        <Label x:Name="label13" Content="0" HorizontalAlignment="Left" Margin="447,190,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label14" Content="0" HorizontalAlignment="Left" Margin="499,190,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label15" Content="0" HorizontalAlignment="Left" Margin="549,186,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label16" Content="0" HorizontalAlignment="Left" Margin="590,190,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label17" Content="0" HorizontalAlignment="Left" Margin="641,186,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label18" Content="0" HorizontalAlignment="Left" Margin="699,186,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label19" Content="0" HorizontalAlignment="Left" Margin="296,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label20" Content="0" HorizontalAlignment="Left" Margin="346,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label21" Content="0" HorizontalAlignment="Left" Margin="397,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label22" Content="0" HorizontalAlignment="Left" Margin="447,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label23" Content="0" HorizontalAlignment="Left" Margin="501,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label24" Content="0" HorizontalAlignment="Left" Margin="547,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label25" Content="0" HorizontalAlignment="Left" Margin="599,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label26" Content="0" HorizontalAlignment="Left" Margin="651,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label27" Content="0" HorizontalAlignment="Left" Margin="695,242,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label28" Content="0" HorizontalAlignment="Left" Margin="296,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label29" Content="0" HorizontalAlignment="Left" Margin="346,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label30" Content="0" HorizontalAlignment="Left" Margin="397,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label31" Content="0" HorizontalAlignment="Left" Margin="447,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label32" Content="0" HorizontalAlignment="Left" Margin="499,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label33" Content="0" HorizontalAlignment="Left" Margin="547,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label34" Content="0" HorizontalAlignment="Left" Margin="599,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label35" Content="0" HorizontalAlignment="Left" Margin="651,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label36" Content="0" HorizontalAlignment="Left" Margin="699,285,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label37" Content="0" HorizontalAlignment="Left" Margin="296,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label38" Content="0" HorizontalAlignment="Left" Margin="346,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label39" Content="0" HorizontalAlignment="Left" Margin="397,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label40" Content="0" HorizontalAlignment="Left" Margin="447,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label41" Content="0" HorizontalAlignment="Left" Margin="499,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label42" Content="0" HorizontalAlignment="Left" Margin="547,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label43" Content="0" HorizontalAlignment="Left" Margin="599,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label44" Content="0" HorizontalAlignment="Left" Margin="651,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label45" Content="0" HorizontalAlignment="Left" Margin="695,333,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label46" Content="0" HorizontalAlignment="Left" Margin="296,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label47" Content="0" HorizontalAlignment="Left" Margin="346,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label48" Content="0" HorizontalAlignment="Left" Margin="397,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label49" Content="0" HorizontalAlignment="Left" Margin="447,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label50" Content="0" HorizontalAlignment="Left" Margin="499,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label51" Content="0" HorizontalAlignment="Left" Margin="549,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label52" Content="0" HorizontalAlignment="Left" Margin="599,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label53" Content="0" HorizontalAlignment="Left" Margin="651,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label54" Content="0" HorizontalAlignment="Left" Margin="695,389,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label55" Content="0" HorizontalAlignment="Left" Margin="296,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label56" Content="0" HorizontalAlignment="Left" Margin="346,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label57" Content="0" HorizontalAlignment="Left" Margin="395,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label58" Content="0" HorizontalAlignment="Left" Margin="447,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label59" Content="0" HorizontalAlignment="Left" Margin="497,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label60" Content="0" HorizontalAlignment="Left" Margin="547,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label61" Content="0" HorizontalAlignment="Left" Margin="599,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label62" Content="0" HorizontalAlignment="Left" Margin="651,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label63" Content="0" HorizontalAlignment="Left" Margin="695,441,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label64" Content="0" HorizontalAlignment="Left" Margin="296,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label65" Content="0" HorizontalAlignment="Left" Margin="346,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label66" Content="0" HorizontalAlignment="Left" Margin="395,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label67" Content="0" HorizontalAlignment="Left" Margin="447,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label68" Content="0" HorizontalAlignment="Left" Margin="497,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label69" Content="0" HorizontalAlignment="Left" Margin="547,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label70" Content="0" HorizontalAlignment="Left" Margin="599,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label71" Content="0" HorizontalAlignment="Left" Margin="651,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label72" Content="0" HorizontalAlignment="Left" Margin="695,487,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label73" Content="0" HorizontalAlignment="Left" Margin="296,536,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label74" Content="0" HorizontalAlignment="Left" Margin="346,536,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label75" Content="0" HorizontalAlignment="Left" Margin="395,538,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label76" Content="0" HorizontalAlignment="Left" Margin="447,538,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label77" Content="0" HorizontalAlignment="Left" Margin="497,540,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label78" Content="0" HorizontalAlignment="Left" Margin="549,538,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label79" Content="0" HorizontalAlignment="Left" Margin="599,536,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label80" Content="0" HorizontalAlignment="Left" Margin="651,536,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Label x:Name="label81" Content="0" HorizontalAlignment="Left" Margin="699,538,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Rockwell Extra Bold"/>
+        <Button x:Name="btnpMain" Content="Start" HorizontalAlignment="Left" Margin="10,143,0,0" VerticalAlignment="Top" Width="197" Height="62" FontFamily="Showcard Gothic" FontSize="29.333" Click="btnpMain_Click_1" Background="#FFEACA3D" />
+        <Label Content="Time = " HorizontalAlignment="Left" Margin="831,51,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Source Sans Pro Black" Width="94"/>
+        <Label x:Name="time" Content="" HorizontalAlignment="Left" Margin="917,51,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Source Sans Pro Black" Width="52"/>
+        <Label Content="ms" HorizontalAlignment="Left" Margin="967,51,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Source Sans Pro Black" Width="49"/>
+
+
+
+
+    </Grid>
+</Window>

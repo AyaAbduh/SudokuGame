@@ -1,0 +1,67 @@
+F:\Projects\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\GameSeq.baml
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\MainWindow.baml
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\GameSeq.g.cs
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\MainWindow.g.cs
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\App.g.cs
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame_MarkupCompile.cache
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.g.resources
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.Cache
+F:\Projects\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+F:\Projects\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\GamePar.baml
+F:\Projects\SudokuGame\SudokuGame\obj\Debug\GamePar.g.cs
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\GamePar.baml
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\GameSeq.baml
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\MainWindow.baml
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\GamePar.g.cs
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\GameSeq.g.cs
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\MainWindow.g.cs
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\App.g.cs
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame_MarkupCompile.cache
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.g.resources
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\Ossama\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.Cache
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\GamePar.baml
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\GameSeq.baml
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\MainWindow.baml
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\GamePar.g.cs
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\GameSeq.g.cs
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\MainWindow.g.cs
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\App.g.cs
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame_MarkupCompile.cache
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.g.resources
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\Aya_Abdo\Desktop\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.Cache
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csprojResolveAssemblyReference.cache
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\GamePar.baml
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\GameSeq.baml
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\MainWindow.baml
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\GamePar.g.cs
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\GameSeq.g.cs
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\MainWindow.g.cs
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\App.g.cs
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame_MarkupCompile.cache
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.g.resources
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+E:\FCIH\Level 4\first semester\parallel\recursive\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.Cache
